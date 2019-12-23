@@ -31,9 +31,9 @@ def monopoly_with_third_tier
       names:
       {
         reading_railroad: {}
-        pennsylvania_railroad: nil,
-        b_and_o_railroad: nil,
-        shortline: nil
+        pennsylvania_railroad: {}
+        b_and_o_railroad: {}
+        shortline: {}
       }
       }
     }
